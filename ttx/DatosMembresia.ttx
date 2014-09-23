@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+USUARIOS!FechaNacio	datetime		Jan 5, 1994 1:23:45 PM
+USUARIOS!Profesion	string	60	valor de muestra de cadena
+USUARIOS!idPais	short		1
+Paises!Pais	string	60	valor de muestra de cadena
+USUARIOS!UFechaPago	datetime		Jan 5, 1994 1:23:45 PM		
+EMPRESA	string	70	valor de muestra de cadena
+DOMICILIO	string	255	valor de muestra de cadena
+TELS	string	255	valor de muestra de cadena
+FAX	string	255	valor de muestra de cadena
+OBSER	string	255	OBSERVACIONES

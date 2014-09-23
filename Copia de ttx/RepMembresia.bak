@@ -1,0 +1,18 @@
+; Field definition file for table: ADORecordset
+USUARIOS!NoFamilia	long		1
+USUARIOS!idTipoUsuario	long		1
+TIPOMEM!Descripcion	string	50	valor de muestra de cadena
+USUARIOS!Nombre	string	60	valor de muestra de cadena
+USUARIOS!A_Paterno	string	60	valor de muestra de cadena
+USUARIOS!A_MATERNO	string	60	valor de muestra de cadena
+USUARIOS!FechaNacio	datetime		Jan 5, 1994 1:23:45 PM
+USUARIOS!Profesion	string	60	valor de muestra de cadena
+DOMICILIO	string	255	valor de muestra de cadena
+MEMBRESIA!FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+MEMBRESIA!Duracion	byte		1
+MEMBRESIA!Monto	number		1.00
+MEMBRESIA!Enganche	number		1.00
+MEMBRESIA!NumeroPagos	short		1
+USUARIOS!idMember	long		1
+MEMBRESIA!idMembresia	short		1
+MEMBRESIA!idTipoMembresia	long		1

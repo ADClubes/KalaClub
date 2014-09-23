@@ -1,0 +1,9 @@
+; Field definition file for table: ADORecordset
+NumeroRecibo	long		1
+FechaFactura	datetime		Jan 5, 1994 1:23:45 PM
+NoFamilia	long		1
+NombreFactura	string	50	valor de muestra de cadena
+IdConcepto	short		1
+Concepto	string	30	valor de muestra de cadena
+Total	number		1.00
+Auxiliar	string	15	valor de muestra de cadena

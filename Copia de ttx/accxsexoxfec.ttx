@@ -1,0 +1,4 @@
+; Field definition file for table: ADORecordset
+FECHA	datetime		Jan 5, 1994 1:23:45 PM
+Sexo	string	1	valor de muestra de cadena
+CuentaDeSECUENCIAL	long		1

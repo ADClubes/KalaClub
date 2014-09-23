@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+Grupo	string	15	valor de muestra de cadena
+IdConcepto	short		1
+Descripcion	string	30	valor de muestra de cadena
+SumaDeTotal	number		1.00

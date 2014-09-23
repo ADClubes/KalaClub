@@ -1,0 +1,3 @@
+; Field definition file for table: ADORecordset
+NoFamilia	long		1
+Nombre	string	255	valor de muestra de cadena

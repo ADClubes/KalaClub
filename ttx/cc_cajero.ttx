@@ -1,0 +1,18 @@
+; Field definition file for table: ADORecordset
+Descripcion	string	20	valor de muestra de cadena
+IdTPV	short		1
+IdInterno	string	5	valor de muestra de cadena
+DescripcionTPV	string	50	valor de muestra de cadena
+LoteNumero	string	15	valor de muestra de cadena
+Importe	number		1.00
+NumeroOperaciones	long		1
+Renglon	short		1
+IdCorteCaja	long		1
+FechaCorte	datetime		Jan 5, 1994 1:23:45 PM
+HoraCorte	datetime		Jan 5, 1994 1:23:45 PM
+UsuarioCorte	string	15	valor de muestra de cadena
+FechaOperacion	datetime		Jan 5, 1994 1:23:45 PM
+Caja	short		1
+Turno	short		1
+FolioInicial	string	20	valor de muestra de cadena
+FolioFinal	string	20	valor de muestra de cadena

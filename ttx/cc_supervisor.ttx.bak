@@ -1,0 +1,23 @@
+; Field definition file for table: ADORecordset
+IdCorteCaja	long		1
+FechaCorte	datetime		Jan 5, 1994 1:23:45 PM
+HoraCorte	datetime		Jan 5, 1994 1:23:45 PM
+UsuarioCorte	string	15	valor de muestra de cadena
+Caja	short		1
+Turno	short		1
+FolioInicial	string	20	valor de muestra de cadena
+SerieInicial	string 2	AA
+FolioFinal	string	20	valor de muestra de cadena
+SerieFinal	string 2	AA
+FondoInicial	number		1.00
+FondoDejado	number	1.00
+NoFoliosUsados	number	1.00
+IdFormaPago	long		1
+Descripcion	string	20	valor de muestra de cadena
+IdTPV	short		1
+DescripcionTPV	string	50	valor de muestra de cadena
+LoteNumero	string	15	valor de muestra de cadena
+ImporteOperado	number		1.00
+ImporteCorte	number		1.00
+Referencia	string	20	SAN100102C01T012
+Cuenta	string	50	BBVA BANCOMER CONVENIO CIE 123456

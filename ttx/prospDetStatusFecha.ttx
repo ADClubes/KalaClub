@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+idProspecto	long		1
+FechaRegistro	datetime		Jan 5, 1994 1:23:45 PM
+HoraRegistro	datetime		Jan 5, 1994 1:23:45 PM
+NombrePro	string	255	valor de muestra de cadena
+Colonia	string	30	valor de muestra de cadena
+Telefono	string	20	valor de muestra de cadena
+Asesor	string	50	valor de muestra de cadena
+Medio2	string	50	valor de muestra de cadena
+DescripcionStatus	string	20	valor de muestra de cadena
+NombreVendedor	string	50	valor de muestra de cadena
+FolioPase	long		1

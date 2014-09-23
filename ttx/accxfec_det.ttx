@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+FECHA	datetime		Jan 5, 1994 1:23:45 PM
+Dia	string	255	valor de muestra de cadena
+HORA	string	5	valor de muestra de cadena
+NoFamilia	long		1
+Nombre	string	255	valor de muestra de cadena
+ENT_SAL	long	1

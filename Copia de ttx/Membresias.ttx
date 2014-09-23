@@ -1,0 +1,7 @@
+IdMembresia	Number	9999
+Descripcion	String	30	TITULAR CON TRES ESPOSAS
+Precio_Contado	Number	99999.99
+Inscripcion	Number	99999.99
+Fecha_Alta	Date
+Fecha_Vigencia	Date
+Duracion	Number	999

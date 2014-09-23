@@ -1,0 +1,5 @@
+ssdw3b32.ocx	C:\Sheridan\SSDatWd3
+ssdw3bo.ocx	C:\WINDOWS\system32
+ssmedt32.dll	C:\Sheridan\SSDatWd3
+ssprn32.dll	C:\Sheridan\SSDatWd3
+TabCtl32.Ocx	C:\WINDOWS\system32

@@ -1,0 +1,6 @@
+; Field definition file for table: ADORecordset
+FechaFactura	datetime		Jan 5, 1994 1:23:45 PM
+IdConcepto	short		1
+Descripcion	string	30	valor de muestra de cadena
+SumaDeIva	number		15.00
+SumaDeTotal	number		115.00

@@ -1,0 +1,5 @@
+IdPropoTitulo	Number	100
+A_Paterno	String	60	NIÑO LADRÓN
+A_Materno	String	60	DE GUEVARA CERVANTES
+Nombre	String	60	IVÓN ELVIRA
+Idpropietario	Number	100

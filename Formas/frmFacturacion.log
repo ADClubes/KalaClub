@@ -1,0 +1,6 @@
+Line 75: Class SSDataWidgets_B.SSDBGrid of control ssdbgPagos was not a loaded control class.
+Line 202: Class SSDataWidgets_B_OLEDB.SSOleDBCombo of control ssCmbOpcionPago was not a loaded control class.
+Line 335: Class SSDataWidgets_B_OLEDB.SSOleDBCombo of control sscmbFormaPago was not a loaded control class.
+Line 460: Class SSDataWidgets_B.SSDBCombo of control ssCmbFacEstado was not a loaded control class.
+Line 663: Class MSComCtl2.DTPicker of control dtpFechaCalc was not a loaded control class.
+Line 676: Class SSDataWidgets_B.SSDBGrid of control ssdbgFactura was not a loaded control class.

@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+IdFormato	long		1
+UsuarioAlta	string	15	valor de muestra de cadena
+NombreFormato	string	50	valor de muestra de cadena
+NoFamilia	long		1
+Nombre	string	255	valor de muestra de cadena

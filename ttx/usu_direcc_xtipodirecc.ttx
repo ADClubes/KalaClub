@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+NoFamilia	long		1
+Inscripcion	string	10	valor de muestra de cadena
+USUARIOS_CLUB.Nombre	string	60	valor de muestra de cadena
+A_Paterno	string	60	valor de muestra de cadena
+A_Materno	string	60	valor de muestra de cadena
+FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+TipoDireccionado	string	2	valor de muestra de cadena
+DIRECCIONADOS.Nombre	string	80	valor de muestra de cadena
+Importe	long		1
+Activo	boolean		TRUE

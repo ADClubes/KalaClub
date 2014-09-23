@@ -1,0 +1,3 @@
+; Field definition file for table: ADORecordset
+FechaFactura	datetime		Jan 5, 1994 1:23:45 PM
+Folio	string	20	A2000

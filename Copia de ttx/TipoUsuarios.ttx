@@ -1,0 +1,6 @@
+IdTipoUsuario	Number	9999
+Descripcion	String	60	HIJO MAYOR DE 12
+EdadMinima	Number	99
+EdadMaxima	Number	99
+Parentesco	String	15	CO
+Familiar	Boolean	False

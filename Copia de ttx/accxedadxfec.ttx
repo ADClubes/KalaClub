@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+FECHA	datetime		Jan 5, 1994 1:23:45 PM
+RangoIni	number		1.00
+RangoFin	number		1.00
+Acceso	long		1

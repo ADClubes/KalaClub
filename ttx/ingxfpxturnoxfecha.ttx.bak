@@ -1,0 +1,10 @@
+; Field definition file for table: ADORecordset
+IdFormaPago	short		1
+Descripcion	string	20	valor de muestra de cadena
+SumaDeImporte	number		1.00
+1	number		1.00
+2	number		1.00
+3	number		1.00
+4	number		1.00
+5	number		1.00
+6	number		1.00

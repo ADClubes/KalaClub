@@ -1,0 +1,189 @@
+<html>
+<!-- Sitemap 1.0 -->
+<object type="text/site properties">
+	<param name="Window Styles" value="0x800002">
+	<param name="ExWindow Styles" value="0x100">
+</object>
+<ul>
+	<li><object type="text/sitemap">
+		<param name="Name" value="Iniciando">
+	</object>
+	<ul>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Uso de la Ayuda">
+		</object>
+		<ul>
+			<li><object type="text/sitemap">
+				<param name="Name" value="El Archivo de Ayuda">
+				<param name="Local" value="El Archivo de Ayuda.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Para buscar un tema de Ayuda">
+				<param name="Local" value="Para buscar un tema de Ayuda.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Para sacar el máximo partido de la Ayuda">
+				<param name="Local" value="Para sacar el maximo partido de la Ayuda.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Para copiar un tema de Ayuda">
+				<param name="Local" value="Para copiar un tema de Ayuda.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Para moverse por los temas de Ayuda que ya ha visto">
+				<param name="Local" value="Para moverse por los temas de Ayuda que ya ha visto.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Como cambiar la ventana de Ayuda">
+			</object>
+			<ul>
+				<li><object type="text/sitemap">
+					<param name="Name" value="Para ocultar y mostrar el contenido de la Ayuda">
+					<param name="Local" value="Para ocultar y mostrar el contenido de la Ayuda.htm">
+				</object>
+				<li><object type="text/sitemap">
+					<param name="Name" value="Para cambiar el tamaño de la ventana">
+					<param name="Local" value="Para cambiar el tamano de la ventana.htm">
+				</object>
+			</ul>
+		</ul>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Características de Windows">
+		</object>
+		<ul>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Acerca de la Barra de Título">
+				<param name="Local" value="Acerca de la Barra de Titulo.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Acerca del Icono de Control">
+				<param name="Local" value="Acerca del Icono de Control.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Acerca de los Botones de Windows">
+				<param name="Local" value="Acerca de los Botones de Windows.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Acerca de la Barra de Menú">
+				<param name="Local" value="Acerca de la Barra de Menu.htm">
+			</object>
+		</ul>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Características de KalaClub">
+		</object>
+		<ul>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Qué hay de nuevo en KalaClub">
+				<param name="Local" value="Que hay de nuevo en KalaClub.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Recorrido por KalaClub">
+				<param name="Local" value="Recorrido por KalaClub.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Acerca de la Barra de Herramientas">
+				<param name="Local" value="Acerca de la Barra de Herramientas.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Acerca de la Barra de Estado">
+				<param name="Local" value="Acerca de la Barra de Estado.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Saliendo de KalaClub">
+				<param name="Local" value="Saliendo de KalaClub.htm">
+			</object>
+			<li><object type="text/sitemap">
+				<param name="Name" value="Requerimientos del Sistema">
+				<param name="Local" value="Requerimientos del Sistema.htm">
+			</object>
+		</ul>
+	</ul>
+	<li><object type="text/sitemap">
+		<param name="Name" value="Catálogos de KalaClub">
+	</object>
+	<ul>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Pantalla principal de Catálogos">
+			<param name="Local" value="Pantalla principal de Catalogos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Botones de Comando de la Pantalla de Catálogos">
+			<param name="Local" value="Botones de Comando de la Pantalla de Catalogos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Rejilla de Datos de la Pantalla de Catálogos">
+			<param name="Local" value="Rejilla de Datos de la Pantalla de Catalogos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Controles de Búsqueda de la Pantalla de Catálogos">
+			<param name="Local" value="Controles de busqueda de la Pantalla de Catalogos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Bancos">
+			<param name="Local" value="Catalogo Bancos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Conceptos de Ingresos">
+			<param name="Local" value="Catalogo Conceptos de Ingresos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Forma de Pago">
+			<param name="Local" value="Catalogo Forma de Pago.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Membresías">
+			<param name="Local" value="Catalogos Membresias.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Reglas Tipo Usuario">
+			<param name="Local" value="Catalogo Reglas Tipo Usuario.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Rentables">
+			<param name="Local" value="Catalogo rentables.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Títulos">
+			<param name="Local" value="Catalogo Titulos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Tipo de Usuario">
+			<param name="Local" value="Catalogo Tipo de Usuario.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Tipo Rentables">
+			<param name="Local" value="Catalogos Tipo Rentables.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Catálogo Usuarios del Sistema">
+			<param name="Local" value="Catalogo Usuarios del Sistema.htm">
+		</object>
+	</ul>
+	<li><object type="text/sitemap">
+		<param name="Name" value="Títulos">
+	</object>
+	<ul>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Accionista Compra Títulos">
+			<param name="Local" value="Titulos Compra.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Nuevo Accionista CompraTitulos">
+			<param name="Local" value="Nuevo Accionista Compra Titulos.htm">
+		</object>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Títulos Traspaso">
+			<param name="Local" value="Titulos Traspaso.htm">
+		</object>
+	</ul>
+	<li><object type="text/sitemap">
+		<param name="Name" value="Reportes">
+	</object>
+	<ul>
+		<li><object type="text/sitemap">
+			<param name="Name" value="Reportes">
+			<param name="Local" value="Reportes.htm">
+		</object>
+	</ul>
+</ul>
+</html>

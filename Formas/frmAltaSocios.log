@@ -1,0 +1,12 @@
+Line 365: Class MSComCtl2.DTPicker of control dtpTitRegistro was not a loaded control class.
+Line 377: Class MSComCtl2.DTPicker of control dtpTitNacio was not a loaded control class.
+Line 389: Class MSComCtl2.DTPicker of control dtpFechaUPago was not a loaded control class.
+Line 1049: Class MSComCtl2.DTPicker of control dtpFecFin was not a loaded control class.
+Line 1061: Class MSComCtl2.DTPicker of control dtpFecIni was not a loaded control class.
+Line 1073: Class SSDataWidgets_B_OLEDB.SSOleDBGrid of control ssdbgAcceso was not a loaded control class.
+Line 1365: Class SSDataWidgets_B.SSDBGrid of control ssdbDetalle was not a loaded control class.
+Line 1405: Class SSDataWidgets_B.SSDBGrid of control ssdbFacturas was not a loaded control class.
+Line 1445: Class SSDataWidgets_B.SSDBGrid of control ssdbRenta was not a loaded control class.
+Line 1473: Class SSDataWidgets_B.SSDBGrid of control ssdbFamiliares was not a loaded control class.
+Line 1501: Class SSDataWidgets_B.SSDBGrid of control ssdbDireccion was not a loaded control class.
+Line 1527: Class SSDataWidgets_B.SSDBGrid of control ssdbAusencias was not a loaded control class.

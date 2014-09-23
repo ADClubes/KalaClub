@@ -1,0 +1,60 @@
+[OPTIONS]
+Compiled File=KalaClub.chm-temp
+Title=KalaClub
+Contents File=KalaClub.hhc
+Index File=KalaClub.hhk
+Default topic=Bienvenido.htm
+Error log file=
+Display compile progress=No
+Display compile notes=No
+Full-text search=No
+Binary Index=No
+
+[WINDOWS]
+
+[FILES]
+Acerca de la Barra de Estado.htm
+El Archivo de Ayuda.htm
+Que hay de nuevo en KalaClub.htm
+Acerca de la Barra de Titulo.htm
+Acerca de los Botones de Windows.htm
+Saliendo de KalaClub.htm
+Acerca del Icono de Control.htm
+Recorrido por KalaClub.htm
+Acerca de la Barra de Menu.htm
+Requerimientos del Sistema.htm
+Bienvenido.htm
+Acerca de la Barra de Herramientas.htm
+Rejilla de Datos de la Pantalla de Catalogos.htm
+Para moverse por los temas de Ayuda que ya ha visto.htm
+Para ocultar y mostrar el contenido de la Ayuda.htm
+Para cambiar el tamano de la ventana.htm
+Pantalla principal de Catalogos.htm
+Botones de Comando de la Pantalla de Catalogos.htm
+Catalogo Usuarios del Sistema.htm
+Controles de busqueda de la Pantalla de Catalogos.htm
+Para buscar un tema de Ayuda.htm
+Para sacar el maximo partido de la Ayuda.htm
+Para copiar un tema de Ayuda.htm
+Nuevo Accionista Compra Titulos.htm
+Reportes.htm
+Catalogo Titulos.htm
+Catalogos Tipo Rentables.htm
+Catalogo Bancos.htm
+Catalogo Conceptos de Ingresos.htm
+Catalogo Forma de Pago.htm
+Catalogos Membresias.htm
+Catalogo Reglas Tipo Usuario.htm
+Catalogo rentables.htm
+Titulos Traspaso.htm
+Titulos Compra.htm
+Catalogo Tipo de Usuario.htm
+BSSCDHTM.js
+#BSSC
+[ALIAS]
+#include KalaClub.ali
+
+[MAP]
+
+[TEXT POPUPS]
+

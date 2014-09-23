@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+NoFamilia	long		1
+Nombre	string	255	valor de muestra de cadena
+FECHA	datetime		Jan 5, 1994 1:23:45 PM
+HORA	string	5	valor de muestra de cadena
+ENT_SAL	byte		1
+Empresa	string	80	valor de muestra de cadena

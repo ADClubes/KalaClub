@@ -1,0 +1,716 @@
+[Root]
+Most Recent Package=KalClub SQL
+
+
+[Package|KalaClubXP|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\KalaClub\PaqueteXP
+
+[Package|KalaClubXP|Configure DAO ISAMs]
+Applicable=No
+
+[Package|KalaClubXP|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|KalaClubXP|Files Found]
+KalaClub.chm=D:\KalaClub\Ayuda\KalaClub\KalaClub.chm
+sscsdk80.dll=C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll
+
+[Package|KalaClubXP|Files Released]
+KalaClub.CHI=
+
+[Package|KalaClubXP|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=
+C:\WINDOWS\Crystal\u2ddisk.dll=
+C:\WINDOWS\Crystal\u2fsepv.dll=
+C:\WINDOWS\Crystal\u2fxls.dll=
+
+[Package|KalaClubXP|Out-of-Date Dependency Information]
+
+[Package|KalaClubXP|Files Added]
+c:\archivos de programa\seagate software\report designer component\craxdrt_res_es.dll=
+c:\archivos de programa\seagate software\report designer component\craxdrt.dep=
+d:\kalaclub\proyecto\kalaclub.ini=
+C:\WINDOWS\Crystal\u2ddisk.dll=
+C:\WINDOWS\Crystal\u2fsepv.dll=
+C:\WINDOWS\Crystal\u2fxls.dll=
+
+[Package|KalaClubXP|Files Removed]
+c:\archivos de programa\seagate software\report designer component\craxdrt.dep=
+d:\kalaclub\proyecto\kalaclub.ini=
+
+[Package|KalaClubXP|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=Yes
+C:\WINDOWS\system32\Implode.dll=Yes
+C:\WINDOWS\system32\Crpaig80.dll=Yes
+C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll=Yes
+C:\WINDOWS\system32\P2smon.dll=Yes
+C:\WINDOWS\system32\p3smnes.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\ADODCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\WINDOWS\system32\TABCTES.DLL=Yes
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Sheridan\SSDatWd3\ssmedt32.dll=Yes
+C:\Sheridan\SSDatWd3\ssprn32.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\CMDLGES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\CMCT3ES.DLL=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\MSHFGES.DLL=Yes
+C:\Sheridan\SSDatWd3\ssdw3bo.ocx=Yes
+C:\Sheridan\SSDatWd3\ssr2c.dll=Yes
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\hh.exe=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dep=No
+D:\KalaClub\Proyecto\KalaClub.INI=No
+D:\KalaClub\Proyecto\KalaClub.exe=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+
+[Package|KalaClubXP|Configure Registry Files]
+Applicable=No
+
+[Package|KalaClubXP|Configure Remote Servers]
+Applicable=No
+
+[Package|KalaClubXP|Install Locations]
+D:\KalaClub\Ejecutable\KalaClub.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Sheridan\SSDatWd3\ssmedt32.dll=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssprn32.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGES.DLL=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3bo.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssr2c.dll=$(WinSysPath)
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=$(WinSysPath)
+D:\KalaClub\Proyecto\KalaClub.INI=$(AppPath)
+D:\KalaClub\Proyecto\KalaClub.exe=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+
+[Package|KalaClubXP|Configure Shared Files]
+Applicable=Yes
+D:\KalaClub\Ejecutable\KalaClub.exe=Yes
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=Yes
+D:\KalaClub\Proyecto\KalaClub.INI=No
+D:\KalaClub\Proyecto\KalaClub.exe=No
+
+[Package|KalaClubXP|Distribution]
+Type=single
+Size=
+Title=KalaClubXP
+
+[Package|KalaClubXP|Package]
+PackageFolder=D:\KalaClub\PaqueteXP
+ProjectFolder=D:\KalaClub\Proyecto
+ServerSideCab=
+File1=D:\KalaClub\PaqueteXP\setup.exe
+File2=D:\KalaClub\PaqueteXP\Setup.Lst
+File3=D:\KalaClub\PaqueteXP\KalaClub.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|KalaClubXP|IconGroups]
+Group0=KalaSystems
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|KalaClubXP|KalaSystems]
+Icon1=KalaClub.exe
+Title1=KalaClub
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Dep File 1|Root]
+SubWizProgID=PDWizard.DepPkgSubWiz
+BuildFolder=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Assembly
+
+[Package|Dep File 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Dep File 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Dep File 1|Files Found]
+sscsdk80.dll=C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll
+KalaClub.chm=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm
+KalaClub.INI=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI
+
+[Package|Dep File 1|Files Released]
+KalaClub.CHI=
+3=
+
+[Package|Dep File 1|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=
+C:\WINDOWS\Crystal\u2ddisk.dll=
+C:\WINDOWS\Crystal\u2fsepv.dll=
+C:\WINDOWS\Crystal\u2fxls.dll=
+C:\WINDOWS\system32\ssdw3bo.ocx=
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\digitoVerificadorBBVA.dll=
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\msxml6.dll=
+C:\WINDOWS\system32\craxdrt.dll=
+C:\WINDOWS\system32\crviewer.dll=
+
+[Package|Dep File 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\ComCt332.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|Dep File 1|Files Added]
+c:\archivos de programa\seagate software\report designer component\craxdrt_res_es.dll=
+c:\archivos de programa\seagate software\report designer component\craxdrt.dep=
+kalaclub.ini=
+c:\windows\crystal\u2ddisk.dll=
+c:\windows\crystal\u2fsepv.dll=
+c:\windows\crystal\u2fxls.dll=
+
+[Package|Dep File 1|Files Removed]
+d:\kalaclub\proyecto\kalaclub.ini=
+
+[Package|Dep File 1|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Sheridan\SSDatWd3\ssmedt32.dll=Yes
+C:\Sheridan\SSDatWd3\ssprn32.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\hh.exe=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dep=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClubSQL.exe=Yes
+C:\WINDOWS\system32\crviewer.dll=Yes
+C:\WINDOWS\system32\craxdrt.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msxml6.dll=Yes
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\digitoVerificadorBBVA.dll=Yes
+C:\WINDOWS\system32\ssdw3bo.ocx=Yes
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm=Yes
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI=Yes
+
+[Package|Dep File 1|Configure Registry Files]
+Applicable=No
+
+[Package|Dep File 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Dep File 1|Install Locations]
+D:\KalaClub\Ejecutable\KalaClub.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Sheridan\SSDatWd3\ssmedt32.dll=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssprn32.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGES.DLL=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3bo.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssr2c.dll=$(WinSysPath)
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=$(WinSysPath)
+D:\KalaClub\Proyecto\KalaClub.INI=$(AppPath)
+D:\KalaClub\Proyecto\KalaClub.exe=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClubSQL.exe=$(AppPath)
+C:\WINDOWS\system32\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\system32\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msxml6.dll=$(WinSysPath)
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\digitoVerificadorBBVA.dll=$(WinSysPath)
+C:\WINDOWS\system32\ssdw3bo.ocx=$(WinSysPath)
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm=$(AppPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dep=$(AppPath)
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI=$(AppPath)
+
+[Package|Dep File 1|Configure Shared Files]
+Applicable=Yes
+D:\KalaClub\Ejecutable\KalaClub.exe=Yes
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=Yes
+D:\KalaClub\Proyecto\KalaClub.INI=No
+D:\KalaClub\Proyecto\KalaClub.exe=No
+
+[Package|Dep File 1|Distribution]
+Type=single
+Size=
+Title=KalaClubXP
+
+[Package|Dep File 1|IconGroups]
+Group0=KalaSystems
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|Dep File 1|KalaSystems]
+Icon1=KalaClub.exe
+Title1=KalaClub
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Dep File 1|DepFile]
+DepCabFile=KalaClubSQL.CAB
+DepCabRun=KalaClubSQL.INF
+
+[Package|Dep File 1|Package]
+PackageFolder=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Assembly
+ProjectFolder=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto
+ServerSideCab=
+File1=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Assembly\KalaClubSQL.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|KalClub SQL|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Assembly
+
+[Package|KalClub SQL|Configure DAO ISAMs]
+Applicable=No
+
+[Package|KalClub SQL|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|KalClub SQL|Files Found]
+sscsdk80.dll=C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll
+KalaClub.chm=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm
+KalaClub.INI=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI
+
+[Package|KalClub SQL|Files Released]
+KalaClub.CHI=
+3=
+
+[Package|KalClub SQL|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=
+C:\WINDOWS\system32\p3smnes.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=
+C:\WINDOWS\Crystal\u2ddisk.dll=
+C:\WINDOWS\Crystal\u2fsepv.dll=
+C:\WINDOWS\Crystal\u2fxls.dll=
+C:\WINDOWS\system32\ssdw3bo.ocx=
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\digitoVerificadorBBVA.dll=
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=
+C:\WINDOWS\system32\msxml6.dll=
+C:\WINDOWS\system32\craxdrt.dll=
+C:\WINDOWS\system32\crviewer.dll=
+
+[Package|KalClub SQL|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\ComCt332.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+C:\WINDOWS\system32\msstdfmt.dll=
+
+[Package|KalClub SQL|Files Added]
+c:\archivos de programa\seagate software\report designer component\craxdrt_res_es.dll=
+c:\archivos de programa\seagate software\report designer component\craxdrt.dep=
+e:\kalaclub produccion\kalaclub (v sin direccionados)\proyecto\kalaclub.ini=
+c:\windows\crystal\u2ddisk.dll=
+c:\windows\crystal\u2fsepv.dll=
+c:\windows\crystal\u2fxls.dll=
+
+[Package|KalClub SQL|Files Removed]
+d:\kalaclub\proyecto\kalaclub.ini=
+
+[Package|KalClub SQL|Files In Project]
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\MSBIND.DLL=Yes
+C:\WINDOWS\system32\MSSTDFMT.DLL=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\Sheridan\SSDatWd3\ssmedt32.dll=Yes
+C:\Sheridan\SSDatWd3\ssprn32.dll=Yes
+C:\WINDOWS\system32\COMDLG32.OCX=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\COMCT332.OCX=Yes
+C:\WINDOWS\system32\MSHFLXGD.OCX=Yes
+C:\WINDOWS\system32\hhctrl.ocx=Yes
+C:\WINDOWS\system32\itss.dll=Yes
+C:\WINDOWS\system32\itircl.dll=Yes
+C:\WINDOWS\hh.exe=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dep=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClubSQL.exe=Yes
+C:\WINDOWS\system32\crviewer.dll=Yes
+C:\WINDOWS\system32\craxdrt.dll=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msxml6.dll=Yes
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\digitoVerificadorBBVA.dll=Yes
+C:\WINDOWS\system32\ssdw3bo.ocx=Yes
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm=Yes
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|KalClub SQL|Configure Registry Files]
+Applicable=No
+
+[Package|KalClub SQL|Configure Remote Servers]
+Applicable=No
+
+[Package|KalClub SQL|Install Locations]
+D:\KalaClub\Ejecutable\KalaClub.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Viewers\ActiveXViewer\crviewer.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxddt.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\Implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\Crpaig80.dll=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Shared\sscsdk80.dll=$(WinSysPath)
+C:\WINDOWS\system32\P2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p3smnes.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado26.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTES.DLL=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3b32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\Sheridan\SSDatWd3\ssmedt32.dll=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssprn32.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT3ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGES.DLL=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssdw3bo.ocx=$(WinSysPath)
+C:\Sheridan\SSDatWd3\ssr2c.dll=$(WinSysPath)
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\system32\hhctrl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\itss.dll=$(WinSysPath)
+C:\WINDOWS\system32\itircl.dll=$(WinSysPath)
+C:\WINDOWS\hh.exe=$(WinSysPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt_res_es.dll=$(WinSysPath)
+D:\KalaClub\Proyecto\KalaClub.INI=$(AppPath)
+D:\KalaClub\Proyecto\KalaClub.exe=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClubSQL.exe=$(AppPath)
+C:\WINDOWS\system32\crviewer.dll=$(WinSysPath)
+C:\WINDOWS\system32\craxdrt.dll=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msxml6.dll=$(WinSysPath)
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=$(AppPath)
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\digitoVerificadorBBVA.dll=$(WinSysPath)
+C:\WINDOWS\system32\ssdw3bo.ocx=$(WinSysPath)
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm=$(AppPath)
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dep=$(AppPath)
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI=$(AppPath)
+
+[Package|KalClub SQL|Configure Shared Files]
+Applicable=Yes
+D:\KalaClub\Ejecutable\KalaClub.exe=Yes
+D:\KalaClub\Ayuda\KalaClub\KalaClub.chm=Yes
+D:\KalaClub\Proyecto\KalaClub.INI=No
+D:\KalaClub\Proyecto\KalaClub.exe=No
+\\VBOXSVR\Documents\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClubSQL.exe=Yes
+F:\Archivos de programa\Microsoft Office\Office12\EXCEL.EXE=Yes
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Ayuda\KalaClub\KalaClub.chm=Yes
+C:\Archivos de programa\Seagate Software\Report Designer Component\craxdrt.dep=Yes
+E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto\KalaClub.INI=Yes
+
+[Package|KalClub SQL|Distribution]
+Type=single
+Size=
+Title=KalaclubSQL
+
+[Package|KalClub SQL|DepFile]
+DepCabFile=KalaClubSQL.CAB
+DepCabRun=KalaClubSQL.INF
+
+[Package|KalClub SQL|Package]
+PackageFolder=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Assembly
+ProjectFolder=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Proyecto
+ServerSideCab=
+File1=E:\KalaClub PRODUCCION\KalaClub (V sin direccionados)\Assembly\KalaClubSQL.DEP
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|KalClub SQL|IconGroups]
+Group0=KalaSystems
+PrivateGroup0=0
+Parent0=$(Programs)
+
+[Package|KalClub SQL|KalaSystems]
+Icon1=KalaClub.exe
+Title1=KalaClub
+StartIn1=$(AppPath)
+Key1=Icon1

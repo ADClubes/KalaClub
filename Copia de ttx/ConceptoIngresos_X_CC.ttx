@@ -1,0 +1,7 @@
+IdConcepto	Number	9999
+Descripcion	String	30	CUOTA DE MANTENIMIENTO.
+CuentaContable	String	20	001-000-001
+Monto	Number	999,999.99
+Impuesto1	Number	99
+Impuesto2	Number	99
+EsPeriodico	Boolean	False

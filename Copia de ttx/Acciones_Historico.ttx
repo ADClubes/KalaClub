@@ -1,0 +1,6 @@
+Numero	number	100
+Serie		String	2	A
+TipoMovimiento	String	10	TRASPASO
+FechaMovimiento	datetime	Jan 2, 2004
+PropAnterior	String	60	NIÑO LADRON DE GUEVARA CERVANTES IVÓN ELBIRA
+PropActual	String	60	NIÑO LADRON DE GUEVARA CERVANTES IVÓN ELBIRA

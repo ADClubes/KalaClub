@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+USUARIOS!idTipoUsuario	long		1
+TIPOUSER!Descripcion	string	60	valor de muestra de cadena
+USUARIOS!Nombre	string	60	valor de muestra de cadena
+USUARIOS!A_Paterno	string	60	valor de muestra de cadena
+USUARIOS!A_Materno	string	60	valor de muestra de cadena
+USUARIOS!FechaNacio	datetime		Jan 5, 1994 1:23:45 PM

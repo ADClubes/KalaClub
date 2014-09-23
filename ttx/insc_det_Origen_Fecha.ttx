@@ -1,0 +1,10 @@
+; Field definition file for table: ADORecordset
+Grupo	string	15	valor de muestra de cadena
+DescripcionOrigenVenta	string	50	valor de muestra de cadena
+NoFamilia	long		1
+Nombre	string	60	valor de muestra de cadena
+FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+A_Paterno	string	60	valor de muestra de cadena
+A_Materno	string	60	valor de muestra de cadena
+Enganche	number		1.00
+Monto	number		1.00

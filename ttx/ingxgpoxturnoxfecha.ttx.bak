@@ -1,0 +1,6 @@
+; Field definition file for table: ADORecordset
+Grupo	string	15	valor de muestra de cadena
+SumadeTotal	number		1.00
+1	number		1.00
+2	number		1.00
+3	number		1.00

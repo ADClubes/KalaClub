@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+Nombre	string	50	valor de muestra de cadena
+A_Paterno	string	50	valor de muestra de cadena
+A_Materno	string	50	valor de muestra de cadena
+Telefono	string	20	valor de muestra de cadena

@@ -1,0 +1,9 @@
+Tabla	PAGOS_FACTURA	Referencia	20
+						Lote		20
+						
+Tabla	PAGOS_RECIBOS	Referencia	20
+						Lote		20
+						
+Tabla	CORTE_CAJA		Referencia	20
+						
+PARAMETRO				PREFIJO_UNIDAD	SAN

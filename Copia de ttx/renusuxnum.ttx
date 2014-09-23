@@ -1,0 +1,7 @@
+; Field definition file for table: ADORecordset
+Numero	string	6	valor de muestra de cadena
+Descripcion	string	30	valor de muestra de cadena
+Ubicacion	string	10	valor de muestra de cadena
+NoFamilia	long		1
+Nombre	string	255	valor de muestra de cadena
+FechaPago	DateTime	Ago 16, 2004

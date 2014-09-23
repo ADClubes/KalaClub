@@ -1,0 +1,6 @@
+; Field definition file for table: ADORecordset
+Descripcion	string	50	valor de muestra de cadena
+SumaDeMonto	number		1.00
+SumaDeImportePagado	number		1.00
+SumaDeImporteAdeudo	number		1.00
+CuentaDeIdMembresia	long		1

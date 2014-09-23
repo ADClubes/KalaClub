@@ -1,0 +1,3 @@
+Line 17: Class MSComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 44: Class MSComctlLib.ProgressBar of control pbProcesoAct was not a loaded control class.
+Line 55: Class MSComCtl2.DTPicker of control dtpFechaProceso was not a loaded control class.

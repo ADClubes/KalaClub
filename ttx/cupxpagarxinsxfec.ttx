@@ -1,0 +1,12 @@
+; Field definition file for table: ADORecordset
+IdInstructor	short		1
+INSTRUCTOR	string	255	valor de muestra de cadena
+FolioCupon	long		1
+IdConcepto	short		1
+Descripcion	string	30	valor de muestra de cadena
+ImporteAPagar	number		1.00
+FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+FechaAplicacion	datetime		Jan 5, 1994 1:23:45 PM
+FechaPago	datetime		Jan 5, 1994 1:23:45 PM
+NoFamilia	long		1
+USUARIO	string	255	valor de muestra de cadena

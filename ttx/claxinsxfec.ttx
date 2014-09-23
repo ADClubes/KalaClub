@@ -1,0 +1,14 @@
+; Field definition file for table: ADORecordset
+IdInstructor	short		1
+INSTRUCTORES.Nombre	string	60	valor de muestra de cadena
+Apellido_Paterno	string	60	valor de muestra de cadena
+IdConcepto	short		1
+Descripcion	string	30	valor de muestra de cadena
+NoFamilia	long		1
+USUARIOS_CLUB.Nombre	string	60	valor de muestra de cadena
+A_Paterno	string	60	valor de muestra de cadena
+A_Materno	string	60	valor de muestra de cadena
+FechaFactura	datetime		Jan 5, 1994 1:23:45 PM
+HoraFactura	datetime		Jan 5, 1994 1:23:45 PM
+NumeroRecibo	long		1
+Total	number		1.00

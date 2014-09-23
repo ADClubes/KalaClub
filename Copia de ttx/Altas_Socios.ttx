@@ -1,0 +1,4 @@
+IdMember	Number	9999
+Nombre_Completo	String	60	NIÑO LADRÓN DE GUEVARA CERVANTES IVÓN ELVIRA
+Descripcion	String	60	HIJO MENOR DE 12
+FechaIngreso	DateTime	Ago 16, 2004

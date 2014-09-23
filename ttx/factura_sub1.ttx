@@ -1,0 +1,27 @@
+; Field definition file for table: ADORecordset
+NumeroFactura	long		1
+Folio		String		15
+NoFamilia	long		1
+FechaFactura	datetime		Jan 5, 1994 1:23:45 PM
+NombreFactura	string	50	valor de muestra de cadena
+CalleFactura	string	50	valor de muestra de cadena
+ColoniaFactura	string	50	valor de muestra de cadena
+DelFactura	string	50	valor de muestra de cadena
+CiudadFactura	string	50	valor de muestra de cadena
+EstadoFactura	string	50	valor de muestra de cadena
+CodPos	string	5	04470
+RFC	string	13	valor de muestra de cadena
+Tel1	string	20	5618 3874
+Observaciones	string	150	OBSERVACIONES
+Total	number	1.00
+Periodo	datetime		Jan 5, 1994 1:23:45 PM
+Concepto	string	50	valor de muestra de cadena
+Cantidad	number	1.00
+Importe	number		1.00
+Intereses	number		1.00
+Descuento	number		1.00
+Iva	number		1.00
+IvaIntereses	number		1.00
+IvaDescuento	number		1.00
+Inscripcion	string	10	IF2340
+NombreInstructor	string	130	RICARDO LUNA

@@ -1,0 +1,27 @@
+; Field definition file for table: ADORecordset
+IdConvenio	long		1
+FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+NoInscripcion	long		1
+IdMember	long		1
+TipoDireccionado	string	2	valor de muestra de cadena
+NumeroCuenta	string	18	valor de muestra de cadena
+NumeroCuentaVisible	string	4	valor de muestra de cadena
+BancoEmisor	string	15	valor de muestra de cadena
+DireccionadosDatos.Nombre	string	60	valor de muestra de cadena
+DireccionadosDatos.A_Paterno	string	60	valor de muestra de cadena
+DireccionadosDatos.A_Materno	string	60	valor de muestra de cadena
+FechaExpedicion	string	4	valor de muestra de cadena
+FechaVencimiento	string	4	valor de muestra de cadena
+CodigoSeguridad	string	4	valor de muestra de cadena
+OperadorTarjeta	string	15	valor de muestra de cadena
+Importe	long		1
+Activo	boolean		TRUE
+Email	string	100	valor de muestra de cadena
+Telefono	string	20	valor de muestra de cadena
+AplicaAPartir	datetime		Jan 5, 1994 1:23:45 PM
+UsuarioAlta	string	15	valor de muestra de cadena
+NoFamilia	long		1
+USUARIOS_CLUB.Nombre	string	60	valor de muestra de cadena
+USUARIOS_CLUB.A_Paterno	string	60	valor de muestra de cadena
+USUARIOS_CLUB.A_Materno	string	60	valor de muestra de cadena
+RazonSocial	string	80	Operadora de Clubes San Angel

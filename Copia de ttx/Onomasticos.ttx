@@ -1,0 +1,4 @@
+NombreCompleto	String	50	JORGE ENRIQUE EBERARDO MENESES MALPICA
+descripcion	string	40	HIJO MENOR DE 12
+fechanacio	date	31/12/1964
+email	string	50	dhernandez@kalasystems.com.mx

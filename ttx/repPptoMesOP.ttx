@@ -1,0 +1,11 @@
+; Field definition file for table: ADORecordset
+GRUPO	string	50	valor de muestra de cadena
+SUBGRUPO	string	50	valor de muestra de cadena
+ImporteP	number		1.00
+CantidadP	number		1.00
+ImporteR	number		1.00
+CantidadR	number		1.00
+ImporteRAA	number		1.00
+CantidadRAA	number		1.00
+Fecha	String	10
+Unidad	String	50

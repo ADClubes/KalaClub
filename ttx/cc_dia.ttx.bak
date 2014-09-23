@@ -1,0 +1,6 @@
+; Field definition file for table: ADORecordset
+FormaPago	string	20	valor de muestra de cadena
+Importe	number		1.00
+Referencia	string	50	valor de muestra de cadena
+Cuenta	string	40	BBVA BANCOMER
+Fecha	date	

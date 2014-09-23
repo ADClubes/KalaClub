@@ -1,0 +1,8 @@
+; Field definition file for table: ADORecordset
+Tipo_Credencial_Descripcion	string	50	valor de muestra de cadena
+FechaAlta	datetime		Jan 5, 1994 1:23:45 PM
+IniciaVigencia	datetime		Jan 5, 1994 1:23:45 PM
+TerminaVigencia	datetime		Jan 5, 1994 1:23:45 PM
+Numero	long		1
+NoFamilia	long		1
+Nombre	string	60	valor de muestra de cadena

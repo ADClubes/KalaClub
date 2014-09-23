@@ -1,0 +1,12 @@
+IdMember	Number	9999
+A_Paterno	String	60	NIÑO LADRÓN
+A_Materno	String	60	DE GUEVARA CERVANTES
+Nombre	String	60	IVÓN ELVIRA
+FechaNacio	Datetime	Jul 29, 2004
+Calle	String	60	CUAUHTEMOC 55-5
+Colonia	String	60	BARRIO SAN PEDRO
+Ent_Federativa	String	30	DISTRITO FEDERAL
+DelegaMunici	String	50	XOCHIMILCO
+Telefono_1	String	20	54 892 879
+Telefono_2	String	20
+RFC	String	20	HEMD641229HV7

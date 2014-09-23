@@ -1,0 +1,86 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Wed Mar 30 15:01:53 2005           **
+;**                                                                **
+;** MakeCAB Version: (32) 1.00.603.4 (06/25/98)                     **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,KalaClub.CAB
+[file list]
+1,0,Setup.Lst,8730
+1,0,setup.exe,141824
+1,1,KalaClub.exe,2408448
+1,1,msvbvm60.dll,1388544
+1,1,OLEAUT32.DLL,598288
+1,1,OLEPRO32.DLL,164112
+1,1,ASYCFILT.DLL,147728
+1,1,STDOLE2.TLB,17920
+1,1,COMCAT.DLL,22288
+1,1,VB6ES.DLL,119568
+1,1,MSBIND.DLL,77824
+1,1,MSSTDFMT.DLL,118784
+1,1,STDFTES.DLL,6656
+1,1,dao360.dll,567848
+1,1,msjet40.dll,1514024
+1,1,msjter40.dll,60000
+1,1,msjint40.dll,186928
+1,1,vbajet32.dll,37472
+1,1,expsrv.dll,387680
+1,1,mswstr10.dll,621104
+1,1,mswdat10.dll,838240
+1,1,msrd2x40.dll,428640
+1,1,msrd3x40.dll,322144
+1,1,msrepl40.dll,559656
+1,1,msjtes40.dll,248360
+1,1,VB5DB.DLL,89360
+1,1,crviewer.dll,548864
+1,1,craxddt.dll,8880128
+1,1,craxdrt.dll,5550080
+1,1,Implode.dll,17920
+1,1,Crpaig80.dll,618496
+1,1,sscsdk80.dll,974848
+1,1,P2smon.dll,147456
+1,1,p3smnes.dll,36864
+1,1,msado26.tlb,81920
+1,1,MSADODC.OCX,118976
+1,1,ADODCES.DLL,15872
+1,1,MSCOMCTL.OCX,1066176
+1,1,MSCMCES.DLL,140800
+1,1,MSCOMCT2.OCX,647872
+1,1,MSCC2ES.DLL,60928
+1,1,MSDATGRD.OCX,262328
+1,1,DATGDES.DLL,30208
+1,1,TABCTL32.OCX,209608
+1,1,TABCTES.DLL,21504
+1,1,ssdw3b32.ocx,850200
+1,1,MFC42.DLL,995383
+1,1,MSVCRT.DLL,295000
+1,1,ssmedt32.dll,72192
+1,1,ssprn32.dll,72192
+1,1,COMDLG32.OCX,140288
+1,1,CMDLGES.DLL,33280
+1,1,MSDATLST.OCX,232640
+1,1,DATLSES.DLL,30208
+1,1,COMCT332.OCX,364544
+1,1,CMCT3ES.DLL,28672
+1,1,MSHFLXGD.OCX,438976
+1,1,MSHFGES.DLL,50176
+1,1,ssdw3bo.ocx,857896
+1,1,ssr2c.dll,72704
+1,1,KalaClub.chm,982679
+1,1,HHCTRL.OCX,520552
+1,1,itss.dll,138048
+1,1,itircl.dll,155552
+1,1,hh.exe,26647
+1,1,SETUP1.EXE,253952
+1,1,VB6STKIT.DLL,101888
+1,1,ST6UNST.EXE,74240
+1,1,KalaClub.INI,122
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Wed Mar 30 15:01:53 2005           **
+;**                                                                **
+;*** END ************************************************************

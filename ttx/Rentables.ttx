@@ -1,0 +1,8 @@
+IdTipoRentable	Number	9999
+Numero	String	6	A9999Z
+Sexo	String	1	M
+Ubicacion	String	10	CORREDOR
+IdUsuario	Number	999
+Accionista	String	60	NIÑO LADRON DE GUEVARA CERVANTES IVÓN ELVIRA
+FechaPago	Date
+Propiedad	Boolean	False

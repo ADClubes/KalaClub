@@ -1,0 +1,4 @@
+; Field definition file for table: ADORecordset
+Medio	string	50	valor de muestra de cadena
+Cuenta	long		1
+Cerrado	long		1

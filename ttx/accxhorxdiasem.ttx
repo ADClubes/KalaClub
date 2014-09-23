@@ -1,0 +1,9 @@
+; Field definition file for table: ADORecordset
+Hora	string	255	valor de muestra de cadena
+1	long		1
+2	long		1
+3	long		1
+4	long		1
+5	long		1
+6	long		1
+7	long		1

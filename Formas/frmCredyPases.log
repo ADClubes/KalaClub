@@ -1,0 +1,4 @@
+Line 18: Class SSDataWidgets_B_OLEDB.SSOleDBCombo of control ssCmbTipoPase was not a loaded control class.
+Line 194: Class MSComCtl2.DTPicker of control dtpFechaFin was not a loaded control class.
+Line 207: Class MSComCtl2.DTPicker of control dtpFechaIni was not a loaded control class.
+Line 229: Class SSDataWidgets_B_OLEDB.SSOleDBGrid of control ssdbgCreden was not a loaded control class.

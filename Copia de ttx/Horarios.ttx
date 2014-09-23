@@ -1,0 +1,5 @@
+Tipo_Clase	String	50	JET KUN DO (AVANZADO)
+Instructor	String	255	NIÑO LADRÓN DE GUEVARA CERVANTES IVÓN ELVIRA
+Dias	String	7	0000000
+Hora_Inicio	Date	12:00
+Hora_Fin	Date	12:00

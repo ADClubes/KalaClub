@@ -1,0 +1,5 @@
+; Field definition file for table: ADORecordset
+Concepto	string	50	valor de muestra de cadena
+ImportePpto	long		1
+Importe	long	1
+Fecha	String	10
